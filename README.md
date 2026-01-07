@@ -14,7 +14,7 @@ Lidify is built for music lovers who want the convenience of streaming services 
 
 ## A Note on Native Apps
 
-I got a little and PWA are the priority. Once the core experience is solid and properly tested, a native mobile app (likely React Native) is on the roadmap. The PWA works great for most cases for now.
+Once the core experience is solid and properly tested, a native mobile app (likely React Native) is on the roadmap. The PWA works great for most cases for now.
 
 Thanks for your patience while I work through this.
 
